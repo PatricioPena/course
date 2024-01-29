@@ -12,7 +12,7 @@
 // ----- YOUR ANSWERS ------
 //This algorithm is a very famous one.
 
-export const ANSWER_J = 'O(1)'
+export const ANSWER_J = 'O(n^2)'
 export const EXTRA_POINT2 = 'what algorythm is'
 
 // ------------------------
